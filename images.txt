@@ -1,0 +1,78 @@
+Atmosphere
+Diffusion of heat
+Advection of heat
+CO2
+Oceans
+Hydrological cycle
+Diffusion of water vapor 
+Advection of water vapor 
+Clouds
+Ice-albedo
+
+BASE IMAGES
+Sun.png
+LeftDownYellowArrow.png
+RightDownYellowArrow.png
+SmallRightUpYellowArrow.png
+LeftBlackFlatGround.png
+RightBlackHill.png
+Tsurf.png
+RedUpArrow.png
+
+
+Slide 3
+Tatmos.png
+RedUpDownCircleArrows.png
+RightUpperSmallUpArrow.png
+RightUpperSmallDownArrow.png
+UpperRightBlueDottedWavyLine.png
+AND
+Sun.png
+LeftDownYellowArrow.png
+RightDownYellowArrow.png
+SmallRightUpYellowArrow.png
+LeftBlackFlatGround.png
+RightBlackHill.png
+Tsurf.png
+RedUpArrow.png
+
+Slide 4
+BlackVerticalDottedLine.png
+LeftRightCircularHorzArrows.png
+AND
+slide 3
+
+Slide 5
+RightOrangeBoldThickArrow.png
+AND
+slide 4
+
+Slide 6
+UpperRightBlueAndGreenDottedWavyLines.png
+
+Slide 7
+BlueWavyOceanSurface.png
+BlueDottedUnderOceanLine.png
+Tocean.png
+
+Slide 8
+RainDrops.png
+Tatmos-qatmos.png
+UpperRightBlueAndGreenAndLightBlueDottedWavyLines.png
+RightUpperBiggerUpArrow.png
+RightUpperBiggerDownArrow.png
+3x WavyDottedUpArrow.png
+
+Slide 9
+DarkBlueLeftRightCircularHortzArrows.png
+
+Slide 10
+DarkBlueRightBoldThickArrow.png
+
+Slide 11
+LeftDIagonalMediumYellowArrow.png
+LeftUpDiagonalMediumYellowArrow.png
+BigBlueCloud.png
+
+Slide 12
+Ice.png
